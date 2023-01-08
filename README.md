@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=bkmoises&style=flat-square)
-
 <a href="https://www.linkedin.com/in/mois%C3%A9s-andrade-872a2611a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <p  align="center">
