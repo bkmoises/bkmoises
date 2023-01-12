@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/bkmoises">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bkmoises&show_icons=true&theme=radical&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bkmoises&theme=radical&hide_border=true&background=0D1117" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bkmoises&show_icons=true&theme=radical&bg_color=001117&hide_border=true" />
 
 [//]: # (    <img src="https://activity-graph.herokuapp.com/graph?username=bkmoises&theme=react-dark" />)
 </a>
