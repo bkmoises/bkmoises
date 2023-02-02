@@ -1,3 +1,11 @@
+<h2 align="center">Hello, I'm Moises Andrade and i'm a Backend Develoer!</h1><br>
+
+- 🔭 I’m currently working at [BRLink](https://brlink.gupy.io/);
+- 🌱 I’m currently learning **Python, NodeJS, Docker and Kubernets**;
+- 👨‍💻 All of me are available at [https://www.linkedin.com/in/mois%C3%A9s-andrade-872a2611a/](https://www.linkedin.com/in/mois%C3%A9s-andrade-872a2611a/);
+- 📫 How to reach me **bk_moises@hotmail.com**.
+
+
 <a href="https://www.linkedin.com/in/mois%C3%A9s-andrade-872a2611a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <p  align="center">
