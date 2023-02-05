@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [BRLink](https://brlink.gupy.io/);
 - 🌱 I’m currently learning **Python, NodeJS, Docker** and **Kubernets**;
-- 👨‍💻 All of me are available at [https://www.linkedin.com/in/mois%C3%A9s-andrade-872a2611a/](https://www.linkedin.com/in/mois%C3%A9s-andrade-872a2611a/);
+- 👨‍💻 All of me are available at [www.linkedin.com/in/moises-reis-andrade/](www.linkedin.com/in/moises-reis-andrade/);
 - 📫 How to reach me **bk_moises@hotmail.com**.
 
 <p  align="center">
