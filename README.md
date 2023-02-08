@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I'm Moises Andrade and i'm a Backend Develoer!</h1><br>
 
 - 🔭 I’m currently working at [BRLink](https://brlink.gupy.io/);
-- 🛟 i'm currently a volunteer at [Casa Hacker](https://casahacker.org/);
+- 🛟 I'm currently a volunteer at [Casa Hacker](https://casahacker.org/);
 - 🌱 I’m currently learning **Python, NodeJS, Docker** and **Kubernets**;
 - 👨‍💻 All of me are available at [www.linkedin.com/in/moises-reis-andrade/](https://www.linkedin.com/in/moises-reis-andrade/);
 - 📫 How to reach me **bk_moises@hotmail.com**.
