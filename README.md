@@ -4,7 +4,7 @@
 - 🛟 I'm currently a volunteer at [Casa Hacker](https://casahacker.org/);
 - 🌱 I’m currently learning **Python, NodeJS, Docker** and **Kubernets**;
 - 👨‍💻 All of me are available at [www.linkedin.com/in/moises-reis-andrade/](https://www.linkedin.com/in/moises-reis-andrade/);
-- 📫 How to reach me **bk_moises@hotmail.com**.
+- 📫 How to reach me **andrade.moises@outlook.com.br**.
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
