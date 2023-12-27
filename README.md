@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Moises Andrade and i'm a Backend Develoer!</h1><br>
+<h2 align="center">Hello, I'm Moises Andrade and i'm a Backend Developer!</h1><br>
 
 - 🔭 I’m currently working at [BRLink](https://brlink.gupy.io/);
 - 🛟 I'm currently a volunteer at [Casa Hacker](https://casahacker.org/);
